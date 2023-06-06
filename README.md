@@ -1,1 +1,1 @@
-Writing portfolio consists of technical tutorials, reference documents, and overviews. Non-technical writing samples include opinion  and non-fiction articles. Also includes technical editing and content development acknowledgments.
+Writing portfolio consists of technical tutorials, reference documents, and overviews. Non-technical writing samples include opinion and non-fiction articles. Also includes technical editing and content development acknowledgments.
